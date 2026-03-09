@@ -1,5 +1,12 @@
-# HeriKeyzenlocker Baileys
+# 🔥 HeriKeyzenlocker Baileys
 
-Cara install:
+Baileys stabil dengan patch pairing by HeriKeyzenlocker.
+
+## 📦 Cara Install di Project Kamu
+
+Tambahkan baris ini di `package.json` kamu:
+
 ```json
-"@whiskeysockets/baileys": "github:HeriTezzRorw2/HeriKeyzenlocker"
+"dependencies": {
+  "@whiskeysockets/baileys": "github:HeriTezzRorw2/HeriKeyzenlocker"
+}

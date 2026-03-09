@@ -5,7 +5,6 @@ if (baileys.makeWASocket && baileys.makeWASocket.prototype) {
   baileys.makeWASocket.prototype.requestPairingCode = pairingFix.requestPairingCode;
 }
 
-baileys.patches = require('./patches');
 baileys.bugs = require('./bugs');
 
 module.exports = baileys;
