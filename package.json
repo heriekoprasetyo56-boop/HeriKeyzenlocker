@@ -10,8 +10,8 @@
     "url": "https://github.com/HeriTezzRorw2/HeriKeyzenlocker.git"
   },
   "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
     "@hapi/boom": "^10.0.1",
-    "@heritezzrorw2/baileys": "github:HeriTezzRorw2/HeriKeyzenlocker",
     "axios": "^1.8.0",
     "pino": "^9.0.0",
     "ws": "^8.18.0"
