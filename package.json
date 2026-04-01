@@ -1,0 +1,20 @@
+{
+  "name": "herikeyzenlocker-wabot",
+  "version": "5.0.0",
+  "description": "WhatsApp Bot by HeriKeyzenlocker from Banjaran Sudom",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node --no-deprecation src/index.js",
+    "dev": "nodemon --no-deprecation src/index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.6.0",
+    "@hapi/boom": "^10.0.1",
+    "pino": "^8.15.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "author": "HeriKeyzenlocker",
+  "license": "MIT"
+}
